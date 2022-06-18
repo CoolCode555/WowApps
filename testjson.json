@@ -1,22 +1,327 @@
 {
-    "glossary": {
-        "title": "example glossary",
-		"GlossDiv": {
-            "title": "S",
-			"GlossList": {
-                "GlossEntry": {
-                    "ID": "SGML",
-					"SortAs": "SGML",
-					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
-					"GlossDef": {
-                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
-						"GlossSeeAlso": ["GML", "XML"]
-                    },
-					"GlossSee": "markup"
-                }
-            }
-        }
+  "STATUS": true,
+  "MSG": "",
+  "APP_SETTINGS": {
+    "app_name": "GB Version 2022 New",
+    "app_accountName": "App9 Trand inc",
+    "app_accountLink": "",
+    "app_packageName": "com.apptrand.gbnewversion",
+    "app_logo": "https://play-lh.googleusercontent.com/uWWpHYs40fnAh2EHQ9u5Mfma67aYpgfcAzQkkppGzlkRBL3hd2FXkY-cHUSXKUMcFtw=s180",
+    "app_status": "Suspend",
+    "app_privacyPolicyLink": "",
+    "app_needInternet": "0",
+    "app_updateAppDialogStatus": "1",
+    "app_versionCode": "2.0.1",
+    "app_redirectOtherAppStatus": "1",
+    "app_newPackageName": "https://play.google.com/store/apps/details?id=com.vanced.gbversionnew",
+    "app_dialogBeforeAdShow": "0",
+    "app_adShowStatus": "0",
+    "app_AppOpenAdStatus": "0",
+    "app_howShowAd": "0",
+    "app_adPlatformSequence": "Admob",
+    "app_alernateAdShow": "",
+    "app_mainClickCntSwAd": "0",
+    "app_innerClickCntSwAd": "0",
+    "gameurl": "http://hexagamezone.in/",
+    "checkgame": "1",
+    "screen1": "1"
+  },
+  "PLACEMENT": {
+    "Admob": {
+      "ad_showAdStatus": "1",
+      "AppID": "ca-app-pub-3940256099942544~3347511713",
+      "Banner1": "/21798997504/ACE_App_Hexaware_com.apptrand.gbnewversion_Banner",
+      "Interstitial1": "/21798997504/ACE_App_Hexaware_com.apptrand.gbnewversion_Interestitial",
+      "Interstitial2": "/21798997504/ACE_App_Hexaware_com.apptrand.gbnewversion_Interestitial",
+      "Interstitial3": "/22448498186/com.apptrand.gbnewversion_interstitial",
+      "Native1": "/21798997504/ACE_App_Hexaware_com.apptrand.gbnewversion_Native",
+      "RewardedVideo1": "",
+      "AppOpen": "/21798997504/ACE_App_Hexaware_com.apptrand.gbnewversion_Appopen"
+    },
+    "Facebookaudiencenetwork": {
+      "ad_showAdStatus": 0,
+      "Banner1": "YOUR_PLACEMENT_ID",
+      "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Native1": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "RewardedVideo1": "YOUR_PLACEMENT_ID",
+      "NativeBanner1": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID"
+    },
+    "Unity": {
+      "ad_showAdStatus": 0,
+      "AppID": "PLACEMENT ID"
+    },
+    "AppNext": {
+      "ad_showAdStatus": 0,
+      "AppID": "PLACEMENT ID"
+    },
+    "StartApp": {
+      "ad_showAdStatus": 0,
+      "AppID": "PLACEMENT ID"
+    },
+    "Gamezone": {
+      "ad_showAdStatus": 0,
+      "AppID": "PLACEMENT ID",
+      "Banner1": "",
+      "Interstitial1": "",
+      "Native1": "",
+      "RewardedVideo1": "",
+      "NativeBanner1": "",
+      "AppOpen": ""
+    },
+    "AppScreen1": {
+      "ad_showAdStatus": 0,
+      "AppID": "PLACEMENT ID",
+      "Banner1": "",
+      "Interstitial1": "",
+      "Native1": "",
+      "RewardedVideo1": "",
+      "NativeBanner1": "",
+      "AppOpen": ""
     }
+  },
+  "MORE_APP": [
+    {
+      "app_id": "163",
+      "app_name": "True Caller ID Name & Location",
+      "app_packageName": "com.apptrending.goldcallerid",
+      "app_logo": "https://play-lh.googleusercontent.com/iljRDpF5IVPx6pYBUUc3UFjvHd362hbtASx6KtgxsFvit1ErW4NGK7URmUPFGGhTAOwj=w240-h480-rw",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "130",
+      "app_name": "MUDRA LOAN",
+      "app_packageName": "com.apptrand.mudraguide",
+      "app_logo": "https://play-lh.googleusercontent.com/qdC6UQCY8o-G6WZ0pNhjXTxKtzdobXgV3WZT3wqlIs3f-CYyGFdC9KzVg79d7LKxiQ=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "126",
+      "app_name": "Photo Video Maker",
+      "app_packageName": "com.apptrand.photovideomaker",
+      "app_logo": "https://play-lh.googleusercontent.com/Z1b2_ShHuJxUYLYDlO5gmCWEkahmu9zMh8MJUH0KhYe4Vd3Bbl4KBPhNiAEwtyHW6ves=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "125",
+      "app_name": "Caller ID & Number Location",
+      "app_packageName": "com.apptrand.mobilenumberlocatore",
+      "app_logo": "https://play-lh.googleusercontent.com/7Yv0-ND-7vN1qtlSLivQzzfiRnpnoD_UYIBRk29TG-QC45bqYfuVqH3_66BAzDqzLw=s180",
+      "app_status": "Publish"
+    }
+  ],
+  "MORE_APP_SPLASH": [
+    {
+      "app_id": "151",
+      "app_name": "GB Version 2022",
+      "app_packageName": "com.g.gbnewversion.gbapp",
+      "app_logo": "https://play-lh.googleusercontent.com/oW1enz9FMF2nBTPMruG_9U3ed1EuWaGJAfvhhthUFWUvq1prxJ88hqyYTFRAAhwz6vw=w240-h480-rw",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "145",
+      "app_name": "GB Latest Version 2022",
+      "app_packageName": "com.vanced.gbversionnew",
+      "app_logo": "https://play-lh.googleusercontent.com/atyK2Vt9KYV-p4-OAQ-o9dnrpNZHT7rizoEKhttyuiLCN5qkdhdthy2eh3pgLfp9kw=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "118",
+      "app_name": "GB New Tools",
+      "app_packageName": "com.gold.gbnewtoolkit",
+      "app_logo": "https://play-lh.googleusercontent.com/iZ6OXAOXpgQ5nKN0pc3FigTfhOv72glnBstxCQ9bVZDfBREP-3aeI5fTZFkDKqSamg=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "148",
+      "app_name": "Vanced Tube Video Downloader",
+      "app_packageName": "com.vanced.vancedtubedownloader",
+      "app_logo": "https://play-lh.googleusercontent.com/bI0bpO86wBazREaEt12F07BJbxQteaD7-vs6QMRr_G1qj04YSXUdUQcuQT23q0du1G0=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "128",
+      "app_name": "RANDOM VIDEO CHAT APP ",
+      "app_packageName": "com.g.randomvideochatcall",
+      "app_logo": "https://play-lh.googleusercontent.com/8YfDRWgJG8xwpQO2MXXqQpVng392GPSAUDzUi_GS5TlrIsgAQ3xR-4JvaS1o_qC7kw=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "123",
+      "app_name": "GB version | GB Whats",
+      "app_packageName": "com.jhtechnologyltd.gblatestversion",
+      "app_logo": "https://play-lh.googleusercontent.com/G0smt2Hdp1YQI8NerYzncBzesFo4ukOlhXh3natjqJqHZGQ03bKprqz7saG8JhqxOfSy=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "115",
+      "app_name": "Hot Girls Live Video Call",
+      "app_packageName": "com.gold.girlslivecall",
+      "app_logo": "https://play-lh.googleusercontent.com/E60HhZkw66nGjXsqhR87sbeFDCU5k67zkBU0tnLkWld55yFU1DU-eW9qktEAT8GrleQ=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "12",
+      "app_name": "Force LTE Only - Force 4G Network",
+      "app_packageName": "com.appmartzone.forcelte",
+      "app_logo": "https://play-lh.googleusercontent.com/cH5ApjRWAaw0mUIIuW7ZVcH795lHtSyUk65mSf05Ix9la0lxa-NLgXAqpbGHI-bh8Q=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "11",
+      "app_name": "Photo Video Maker With Lyrics - Video Maker",
+      "app_packageName": "com.appmartzone.lyricalvideostatus",
+      "app_logo": "https://play-lh.googleusercontent.com/CG9QHUrMEEpP2cxxpdDvV1qgYhIy27n1jVCaTemxfOnBeDR8l9D7T2hs7jsE1UdKbw=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "75",
+      "app_name": "Indian Bhabhi Video Call",
+      "app_packageName": "com.media.bhabhilivevideocall",
+      "app_logo": "https://play-lh.googleusercontent.com/QiAierw81hRbl-uIqCBly-RcRkxpTx5adXTTVTHzMFB5w83nWjkklNVvMKy3GeJ9LXi3=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "125",
+      "app_name": "Caller ID & Number Location",
+      "app_packageName": "com.apptrand.mobilenumberlocatore",
+      "app_logo": "https://play-lh.googleusercontent.com/7Yv0-ND-7vN1qtlSLivQzzfiRnpnoD_UYIBRk29TG-QC45bqYfuVqH3_66BAzDqzLw=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "142",
+      "app_name": "Screen Mirroring - Cast to TV",
+      "app_packageName": "com.hexa.screenmirroring",
+      "app_logo": "https://play-lh.googleusercontent.com/6NJ5rXCenhnE-iHi17nLfdbCxPfd5aZrmr9ZFcRYjbVlS_SXgNv3hKOYaiON6KTxakLz=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "146",
+      "app_name": "Cricket Live Score",
+      "app_packageName": "com.vanced.livecricketscore",
+      "app_logo": "https://play-lh.googleusercontent.com/5f59y7bcA7OZsuo-qMilGn6ssifwfMFoMuh-V1hLtxlkI0aMQT9toUiiaVTgA3K9i3k=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "132",
+      "app_name": "For skin tool",
+      "app_packageName": "com.hexa.ffskintools",
+      "app_logo": "https://play-lh.googleusercontent.com/Lmbqsrt6lxLHH25WQRS56CZI6RnQtNTBNqi_Xkb06MOYN3uKA9swzgtUOG4d4BqAyw=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "144",
+      "app_name": "Beauty Camera",
+      "app_packageName": "com.vanced.beautyselfiecamera",
+      "app_logo": "https://play-lh.googleusercontent.com/mbn4Noxhq8Om1eiPEVl7seOlzOu3Isz-ujrC4sTX3Ir1rOY7jG8XjtmML2QtGhyzPLc=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "137",
+      "app_name": "Live IPL Score",
+      "app_packageName": "com.hexa.livecricketscore",
+      "app_logo": "https://play-lh.googleusercontent.com/56G98vybFBRx0GEGScvnJHDVVmvKoiR95O2A6c3URZEZGcPTibS_E3QQ0A7XCRuh5A=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "127",
+      "app_name": "photocallerid",
+      "app_packageName": "com.g.photocallerid",
+      "app_logo": "https://play-lh.googleusercontent.com/IBSFbjOVSA0-lUf6zJqph4eixhpTPnclatmgQy6de8ZSIb7kkxbpBeULVEDCkHmcg61y=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "126",
+      "app_name": "Photo Video Maker",
+      "app_packageName": "com.apptrand.photovideomaker",
+      "app_logo": "https://play-lh.googleusercontent.com/Z1b2_ShHuJxUYLYDlO5gmCWEkahmu9zMh8MJUH0KhYe4Vd3Bbl4KBPhNiAEwtyHW6ves=s180",
+      "app_status": "Publish"
+    }
+  ],
+  "MORE_APP_EXIT": [
+    {
+      "app_id": "145",
+      "app_name": "GB Latest Version 2022",
+      "app_packageName": "com.vanced.gbversionnew",
+      "app_logo": "https://play-lh.googleusercontent.com/atyK2Vt9KYV-p4-OAQ-o9dnrpNZHT7rizoEKhttyuiLCN5qkdhdthy2eh3pgLfp9kw=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "123",
+      "app_name": "GB version | GB Whats",
+      "app_packageName": "com.jhtechnologyltd.gblatestversion",
+      "app_logo": "https://play-lh.googleusercontent.com/G0smt2Hdp1YQI8NerYzncBzesFo4ukOlhXh3natjqJqHZGQ03bKprqz7saG8JhqxOfSy=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "144",
+      "app_name": "Beauty Camera",
+      "app_packageName": "com.vanced.beautyselfiecamera",
+      "app_logo": "https://play-lh.googleusercontent.com/mbn4Noxhq8Om1eiPEVl7seOlzOu3Isz-ujrC4sTX3Ir1rOY7jG8XjtmML2QtGhyzPLc=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "115",
+      "app_name": "Hot Girls Live Video Call",
+      "app_packageName": "com.gold.girlslivecall",
+      "app_logo": "https://play-lh.googleusercontent.com/E60HhZkw66nGjXsqhR87sbeFDCU5k67zkBU0tnLkWld55yFU1DU-eW9qktEAT8GrleQ=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "118",
+      "app_name": "GB New Tools",
+      "app_packageName": "com.gold.gbnewtoolkit",
+      "app_logo": "https://play-lh.googleusercontent.com/iZ6OXAOXpgQ5nKN0pc3FigTfhOv72glnBstxCQ9bVZDfBREP-3aeI5fTZFkDKqSamg=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "11",
+      "app_name": "Photo Video Maker With Lyrics - Video Maker",
+      "app_packageName": "com.appmartzone.lyricalvideostatus",
+      "app_logo": "https://play-lh.googleusercontent.com/CG9QHUrMEEpP2cxxpdDvV1qgYhIy27n1jVCaTemxfOnBeDR8l9D7T2hs7jsE1UdKbw=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "12",
+      "app_name": "Force LTE Only - Force 4G Network",
+      "app_packageName": "com.appmartzone.forcelte",
+      "app_logo": "https://play-lh.googleusercontent.com/cH5ApjRWAaw0mUIIuW7ZVcH795lHtSyUk65mSf05Ix9la0lxa-NLgXAqpbGHI-bh8Q=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "75",
+      "app_name": "Indian Bhabhi Video Call",
+      "app_packageName": "com.media.bhabhilivevideocall",
+      "app_logo": "https://play-lh.googleusercontent.com/QiAierw81hRbl-uIqCBly-RcRkxpTx5adXTTVTHzMFB5w83nWjkklNVvMKy3GeJ9LXi3=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "151",
+      "app_name": "GB Version 2022",
+      "app_packageName": "com.g.gbnewversion.gbapp",
+      "app_logo": "https://play-lh.googleusercontent.com/oW1enz9FMF2nBTPMruG_9U3ed1EuWaGJAfvhhthUFWUvq1prxJ88hqyYTFRAAhwz6vw=w240-h480-rw",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "146",
+      "app_name": "Cricket Live Score",
+      "app_packageName": "com.vanced.livecricketscore",
+      "app_logo": "https://play-lh.googleusercontent.com/5f59y7bcA7OZsuo-qMilGn6ssifwfMFoMuh-V1hLtxlkI0aMQT9toUiiaVTgA3K9i3k=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "142",
+      "app_name": "Screen Mirroring - Cast to TV",
+      "app_packageName": "com.hexa.screenmirroring",
+      "app_logo": "https://play-lh.googleusercontent.com/6NJ5rXCenhnE-iHi17nLfdbCxPfd5aZrmr9ZFcRYjbVlS_SXgNv3hKOYaiON6KTxakLz=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "137",
+      "app_name": "Live IPL Score",
+      "app_packageName": "com.hexa.livecricketscore",
+      "app_logo": "https://play-lh.googleusercontent.com/56G98vybFBRx0GEGScvnJHDVVmvKoiR95O2A6c3URZEZGcPTibS_E3QQ0A7XCRuh5A=s180",
+      "app_status": "Publish"
+    }
+  ],
+  "EXTRA_DATA": null
 }
