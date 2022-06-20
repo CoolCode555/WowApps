@@ -22,7 +22,7 @@
     "app_alernateAdShow": "",
     "app_mainClickCntSwAd": "0",
     "app_innerClickCntSwAd": "0",
-    "gameurl": "http://hexagamezone.in/",
+    "gameurl": "",
     "checkgame": "1",
     "screen1": "1"
   },
@@ -30,13 +30,13 @@
     "Admob": {
       "ad_showAdStatus": "1",
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "/21798997504/ACE_App_Hexaware_com.apptrand.gbnewversion_Banner",
-      "Interstitial1": "/21798997504/ACE_App_Hexaware_com.apptrand.gbnewversion_Interestitial",
-      "Interstitial2": "/21798997504/ACE_App_Hexaware_com.apptrand.gbnewversion_Interestitial",
-      "Interstitial3": "/22448498186/com.apptrand.gbnewversion_interstitial",
-      "Native1": "/21798997504/ACE_App_Hexaware_com.apptrand.gbnewversion_Native",
+      "Banner1": "ca-app-pub-3940256099942544/6300978111",
+      "Interstitial1": "ca-app-pub-3940256099942544/1033173712",
+      "Interstitial2": "ca-app-pub-3940256099942544/1033173712",
+      "Interstitial3": "ca-app-pub-3940256099942544/1033173712",
+      "Native1": "ca-app-pub-3940256099942544/2247696110",
       "RewardedVideo1": "",
-      "AppOpen": "/21798997504/ACE_App_Hexaware_com.apptrand.gbnewversion_Appopen"
+      "AppOpen": "ca-app-pub-3940256099942544/3419835294"
     },
     "Facebookaudiencenetwork": {
       "ad_showAdStatus": 0,
